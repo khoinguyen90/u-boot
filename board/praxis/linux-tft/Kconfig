@@ -1,0 +1,15 @@
+if TARGET_PRAXIS_LINUX_TFT
+
+config SYS_BOARD
+	default "linux-tft"
+
+config SYS_VENDOR
+	default "praxis"
+
+config SYS_CONFIG_NAME
+	default "praxis-rk3568"
+
+config BOARD_SPECIFIC_OPTIONS # dummy
+	def_bool y
+
+endif

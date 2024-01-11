@@ -1,0 +1,7 @@
+PRAXIS Linux TFT
+M:	Khoi Nguyen <k.van.nguyen@praxis-automation.com>
+S:	Maintained
+F:	board/praxis/linux-tft
+F:	include/configs/praxis-linux-tft.h
+F:	configs/praxis-linux-tft_defconfig
+F:	arch/arm/dts/rk3568-praxis-linux-tft.dts
